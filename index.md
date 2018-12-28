@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 许奇/anlve
 
-You can use the [editor on GitHub](https://github.com/anlve/anlve.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人简介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+    我是许奇，来自中国煤都、雕塑之都————大同。
+    我只是程序界的一名小学生 (^_−)☆！曾供职于
+> 1. 云中乐购网络发展有限公司
+> 2. 北京翰维科技发展有限公司
+    
+    现就职于[北京悟到科技发展有限公司](https://www.wutom360.com/)
+    2014年毕业开始工作，一直从事Java开发。
+    目前参与过多个项目开发，涉及环保，电商，汽车，管理等多个领域。逻辑思维强，沟通能力好。具备各方综合能力，能很好完成需求。着迷技术前沿，期望架构方向发展
 
-### Markdown
+### 我的社交
+思想家伏尔泰说过：“自从世界上出现人类以来，相互交往就一直存在。”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    所以你可以在目前国内主流的IP找到我的声影，当然日常生活中我也有很多领域内的朋友
 
-```markdown
-Syntax highlighted code block
+### 我的爱好
 
-# Header 1
-## Header 2
-### Header 3
+**拍照**
+    
+    没错，我的业余爱好就是拍照，因为拍照对于我来说既是一种对美的捕捉，也是对时刻的一种纪念（目前作品暂不对外展示）
 
-- Bulleted
-- List
+### 联系我
 
-1. Numbered
-2. List
+> 你可以通过以下方式联系到我：
 
-**Bold** and _Italic_ and `Code` text
+    微信 anlve
+    email iqux_anlve#163.com（发送邮件时请把#转为@）
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anlve/anlve.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
